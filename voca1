@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>단어장</title>
+  <style>
+    body { font-family: Arial, sans-serif; padding: 20px; }
+    table { border-collapse: collapse; width: 100%; margin-bottom: 40px; }
+    th, td { border: 1px solid #ccc; padding: 8px; text-align: left; }
+    th { background-color: #f2f2f2; }
+    h2 { color: #2c3e50; }
+  </style>
+</head>
+<body>
+
+  <h2>DAY 1</h2>
+  <table>
+    <tr><th>영어 단어</th><th>뜻</th></tr>
+    <tr><td>appliance</td><td>전기 제품</td></tr>
+    <tr><td>vacancy</td><td>공석</td></tr>
+    <tr><td>master</td><td>석사</td></tr>
+    <tr><td>bachelor</td><td>학사</td></tr>
+    <tr><td>recommendation</td><td>추천서</td></tr>
+    <tr><td>position</td><td>일자리, 직책, 두다</td></tr>
+    <tr><td>reference letter</td><td>추천서</td></tr>
+    <tr><td>reference material</td><td>참고 자료</td></tr>
+    <tr><td>paid holidays</td><td>유급 휴가</td></tr>
+    <tr><td>confidence in</td><td>-에 대한 확신</td></tr>
+    <tr><td>in confidence</td><td>비밀로</td></tr>
+    <tr><td>profession</td><td>직업</td></tr>
+    <tr><td>professional</td><td>전문가, 직업의</td></tr>
+    <tr><td>on-the-job training</td><td>직장 훈련</td></tr>
+    <tr><td>organize</td><td>정리하다, 준비하다</td></tr>
+    <tr><td>expense</td><td>경비</td></tr>
+    <tr><td>lay off</td><td>해고하다</td></tr>
+    <tr><td>dismiss</td><td>해고하다</td></tr>
+    <tr><td>fire</td><td>해고하다</td></tr>
+    <tr><td>be associated with</td><td>-와 관련되다</td></tr>
+    <tr><td>be entitled to</td><td>자격이 주어지다</td></tr>
+    <tr><td>be familiar with</td><td>익숙하다</td></tr>
+    <!-- 계속 이어짐... -->
+  </table>
+
+</body>
+</html>
